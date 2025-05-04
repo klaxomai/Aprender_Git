@@ -1,2 +1,2 @@
 primera linea del archivo 2 desde main
-
+seguna linea del archivo 2 desde main
